@@ -8,7 +8,7 @@
 // @name           FetLife Spyscope
 // @version        0.1
 // @namespace      http://maybemaimed.com/playground/fetlife-spyscope/
-// @updateURL      https://userscripts.org/scripts/source/TK.user.js
+// @updateURL      http://userscripts.org/scripts/source/149731.user.js
 // @description    Hover over FetLife user avatar pictures to see their recent activity, vitals, group subscriptions, and more. Quickly discern whether they're worth talking back to or not.
 // @include        https://fetlife.com/*
 // @exclude        https://fetlife.com/adgear/*
