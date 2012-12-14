@@ -4,9 +4,15 @@ Hover over links to user profiles on FetLife.com to see intersting information a
 
 ## System requirements
 
-To use the FetLife Spyscope user script, you must be running [Mozilla Firefox](http://getfirefox.com/) (version 12.0 or higher), with the [Greasemonkey extension](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) installed (at version 1.0 or higher).
+The following software must be installed on your system before installing the FetLife Spyscope user script.
 
-Sorry, FetLife Spyscope is currently [incompatible with other Web browsers](https://github.com/meitar/fetlife-spyscope/issues/1). (Please help me fix that!)
+### Mozilla Firefox
+
+If you use the [Mozilla Firefox](http://getfirefox.com/) web browser (version 12.0 or higher), ensure you have the [Greasemonkey extension](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) installed (at version 1.0 or higher).
+
+### Google Chrome
+
+If you use the [Google Chrome](https://chrome.google.com/) web browser (version 23 or higher), ensure you have the [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) installed.
 
 ## Installing
 
@@ -42,5 +48,7 @@ Probably! If you'd like the Spyscope pop-up display to include more information 
 
 ## Change log
 
+* Version 0.1.1:
+** Added support for Google Chrome with the Tampermonkey extension installed.
 * Version 0.1:
 ** Initial release.
